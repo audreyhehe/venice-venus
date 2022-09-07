@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>my websito >:)</title>
+    </head>
+    <style>
+        body {background-color:rgb(255, 242, 252);}
+        h1 {color:pink;border:solid;border-color:darkblue;}
+        p {color:darkgreen;font-family:monospace;}
+        a {color:pink;}
+        ol {color:darkblue;font-family:monospace;}
+        
+        button
+         {background-color:rgb (255, 227, 239)  
+         color:rgb (212, 127, 207) ; 
+         border-color:rgb (62, 34, 120) ;
+         border-radius:30px ;}
+         
+    </style>
+    <body>
+       <a href = "index.html"><button>HOME</button></a>
+    <h1> <center> favorites of the rodarte fall 2022 ready to wear 2 </center> </h1>
+ 
+     <img src = "00012 rodarte fall ready-to-wear.png" alt = model: janicza bravo>
+     <p> model: janicza bravo slays.look 12
+         previous page. </p>
+       <a href = "gallery.html"><button>LAST LOOK</button></a>
+    </body>
+</html>
